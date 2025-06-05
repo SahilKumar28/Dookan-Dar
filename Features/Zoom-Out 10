@@ -1,0 +1,77 @@
+1. Inventory Management
+Add/Edit/Delete products or menu items
+
+Stock quantity tracking & low-stock alerts
+
+Barcode scanning for faster updates (optional stretch)
+
+Bulk upload/download CSV for inventory data
+
+2. Debt (Udhaar) Tracker
+Record customer debts with amount & due date
+
+Automated reminders via SMS/WhatsApp
+
+Debt payment logging & history
+
+Simple reports for total outstanding
+
+3. Order Receiving System
+Receive orders from customers (phone/app/WhatsApp)
+
+Order status updates (pending, preparing, delivered)
+
+Basic order history for store and customers
+
+Integration with delivery riders (future phase)
+
+4. Offline Mode
+Store data locally when internet unavailable
+
+Sync data automatically when connection restores
+
+Critical for areas with poor connectivity
+
+5. Multi-Language Support
+UI localization (English, Urdu, regional languages)
+
+Dynamic language switching without app reload
+
+Multilingual customer notifications
+
+6. Digital Payment Integration (Phase 2)
+Support mobile wallets (JazzCash, Easypaisa)
+
+Partial & full payment options
+
+Payment history linked to customer profile
+
+7. Owner + Staff Login (Role-Based Access)
+Multiple users per store
+
+Roles: Owner (full access), Staff (limited)
+
+Activity logs for accountability
+
+8. Multi-Branch Support
+Copy inventory & settings across branches
+
+Consolidated sales & udhaar reports
+
+Branch-wise user access control
+
+9. Multi-Industry Support (Kiryana, Restaurants, Salon, etc.)
+Flexible product/item schema (grocery, food, services)
+
+Customizable UI for different business types
+
+Adapt inventory & order workflows accordingly
+
+10. Admin Panel
+Manage app users, business owners, and riders (future)
+
+Monitor transactions, orders, and issues
+
+Handle customer support tickets
+
+Analytics & app usage stats
